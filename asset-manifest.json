@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Akashkumar_Jeyaraman_Frontend_Resume/static/css/main.4d4cf3f8.chunk.css",
+    "main.js": "/Akashkumar_Jeyaraman_Frontend_Resume/static/js/main.0205180d.chunk.js",
+    "main.js.map": "/Akashkumar_Jeyaraman_Frontend_Resume/static/js/main.0205180d.chunk.js.map",
+    "runtime-main.js": "/Akashkumar_Jeyaraman_Frontend_Resume/static/js/runtime-main.457c9c0a.js",
+    "runtime-main.js.map": "/Akashkumar_Jeyaraman_Frontend_Resume/static/js/runtime-main.457c9c0a.js.map",
+    "static/js/2.df7b6b05.chunk.js": "/Akashkumar_Jeyaraman_Frontend_Resume/static/js/2.df7b6b05.chunk.js",
+    "static/js/2.df7b6b05.chunk.js.map": "/Akashkumar_Jeyaraman_Frontend_Resume/static/js/2.df7b6b05.chunk.js.map",
+    "index.html": "/Akashkumar_Jeyaraman_Frontend_Resume/index.html",
+    "static/css/main.4d4cf3f8.chunk.css.map": "/Akashkumar_Jeyaraman_Frontend_Resume/static/css/main.4d4cf3f8.chunk.css.map",
+    "static/js/2.df7b6b05.chunk.js.LICENSE.txt": "/Akashkumar_Jeyaraman_Frontend_Resume/static/js/2.df7b6b05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.457c9c0a.js",
+    "static/js/2.df7b6b05.chunk.js",
+    "static/css/main.4d4cf3f8.chunk.css",
+    "static/js/main.0205180d.chunk.js"
+  ]
+}

@@ -29,6 +29,7 @@ const Experience = () => {
                     <li>{ex.p4}</li>
                     <li>{ex.p5}</li>
                     <li>{ex.p6}</li>
+                    <li>{ex.p7}</li>
                   </ul>
                 ))
               }

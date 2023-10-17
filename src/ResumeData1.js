@@ -180,8 +180,22 @@ const experienceData = {
   title: "Experience",
   experiences: [
     {
+      title: "Altimetrik (parent) / Intuit (Client)",
+      company: "Dec 2022 - PRESENT",
+      describe:[{
+        p1:"* Discussing the project with team members arround the world.",
+        p2:"* Creating UI based on Figma.",
+        p3:"* Used various tecchnologies, Including Javascript to make code repairs and optimizecorporate websites.",
+        p4:"* Converted Mockups into HTML, CSS, Javascript and JSON.",
+        p5:"* Writing unit test and incorporate backend with frontend to accompolish the web app.",
+        p6:"* Worked on devopoly to get tiles signed off.",
+        p7:"* Worked on Beaconing, debug and testing."
+      }],
+      line: true,
+    },
+    {
       title: "Atech / Front-end Developer",
-      company: "2021 - PRESENT",
+      company: "Dec 2021 - Nov 2022",
       describe:[{
         p1:"* Discussing the project with team members arround the world.",
         p2:"* Creating UI based on Figma.",
